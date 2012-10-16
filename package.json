@@ -1,0 +1,15 @@
+{
+	"name"           : "sociophob"
+	, "version"      : "0.0.1"
+	, "dependencies" : {
+		"express"      : "*"
+		, "jade"       : "*"
+		, "socket.io"  : "*"
+		, "browserify" : "*"
+		, "resourcify" : "*"
+		, "br-jquery"  : "*"
+		, "knockoutify": "*"
+		, "backbone"   : "*"
+		, "backstage"  : "*"
+	}
+}
